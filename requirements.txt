@@ -1,0 +1,9 @@
+dash
+dash-bootstrap-components
+pandas
+openpyxl
+plotly
+flask
+flask-login
+fpdf
+kaleido>=0.2.1
